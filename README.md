@@ -1,0 +1,1 @@
+# MagicalRecord_coreData
